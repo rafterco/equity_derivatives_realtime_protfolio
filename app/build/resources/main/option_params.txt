@@ -1,0 +1,5 @@
+// symbol, underlier, strike, risk-free rate, maturity
+AAPL-OCT-2020-110-C, AAPL, 110.0, 0.02, 0.25
+AAPL-OCT-2020-110-P, AAPL, 110.0, 0.02, 0.25
+TELSA-NOV-2020-400-C, TELSA, 400.0, 0.02, 0.33
+TELSA-DEC-2020-400-P, TELSA, 400.0, 0.02, 0.41

@@ -1,0 +1,4 @@
+// symbol, initial price, expected return (mu), annualized std (sigma)
+AAPL, 100.55, 0.625, 0.237
+TELSA, 1137.06, 0.4162, 0.882
+COIN, 332.55, 0.824, 0.917
